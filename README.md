@@ -9,6 +9,7 @@ XGBoost Implementation: Utilizes gradient boosting for high-performance classifi
 Hyperparameter Tuning: Optimized model for better accuracy and detection rates.
 Performance Evaluation: Assessed using precision, recall, F1-score, and accuracy metrics.
 Workflow
+
 1️⃣ Data Preparation
 Used a preprocessed dataset with binary features (0s and 1s).
 Split data into training and testing sets for model evaluation.
