@@ -8,6 +8,7 @@ Binary Feature Dataset: Efficient representation of network security events.
 XGBoost Implementation: Utilizes gradient boosting for high-performance classification.
 Hyperparameter Tuning: Optimized model for better accuracy and detection rates.
 Performance Evaluation: Assessed using precision, recall, F1-score, and accuracy metrics.
+
 Workflow
 
 1️⃣ Data Preparation
